@@ -5,16 +5,16 @@
  *  Developed By Web Dev Fusion
  *  URL - https://www.webdevfusion.com
  *  
- * Components
- * ----------
- *  - Arduino Uno
- *  - IR Receiver Module
- *  - IR Remote
- *  - Jumper Wires
- *  - Breadboard / PCB
- *  - Servo Motor
- *  - 2 LEDs
- *  - 2 x 220 Ohm Resistors
+ *  Components
+ *  ----------
+ *   - Arduino Uno
+ *   - IR Receiver Module
+ *   - IR Remote
+ *   - Jumper Wires
+ *   - Breadboard / PCB
+ *   - Servo Motor
+ *   - 2 LEDs
+ *   - 2 x 220 Ohm Resistors
  *  
  *  Libraries
  *  ---------
