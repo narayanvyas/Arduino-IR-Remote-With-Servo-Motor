@@ -3,7 +3,8 @@
  *  GitHub URL - https://github.com/narayanvyas/Arduino-IR-Remote-With-Servo-Motor
  * 
  *  Developed By Web Dev Fusion
- *  URL - https://www.webdevfusion.com84485 *  
+ *  URL - https://www.webdevfusion.com
+ *  
  * Components
  * ----------
  *  - Arduino Uno
